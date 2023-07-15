@@ -1,2 +1,2 @@
 # Netflox Clone
-# Netflix-host
+this is my netflix clone project during bayan academy training...
