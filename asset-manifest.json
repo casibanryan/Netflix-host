@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Netflix-host/static/css/main.e93ac58b.css",
+    "main.js": "/Netflix-host/static/js/main.5e69291e.js",
+    "static/media/video-preview-1.mp4": "/Netflix-host/static/media/video-preview-1.a300694b1ebf01c7edd0.mp4",
+    "static/media/header-bg.png": "/Netflix-host/static/media/header-bg.a21af5be6917bf36e838.png",
+    "static/media/video-preview1.webp": "/Netflix-host/static/media/video-preview1.cd3c9a39dbb3c539b2d9.webp",
+    "static/media/bg-masthead.jpg": "/Netflix-host/static/media/bg-masthead.e9045e8b8f25925941a0.jpg",
+    "static/media/slide1.png": "/Netflix-host/static/media/slide1.ab8b4cd257c32446d893.png",
+    "static/media/video-preview-2.mp4": "/Netflix-host/static/media/video-preview-2.9ed5659f4edceb3f2f0f.mp4",
+    "static/media/slide3.png": "/Netflix-host/static/media/slide3.a5c1384843dc93cf602a.png",
+    "static/media/video-preview2.webp": "/Netflix-host/static/media/video-preview2.c1dc59bd00bbe7f77d04.webp",
+    "static/media/bg-showcase-3.jpg": "/Netflix-host/static/media/bg-showcase-3.508e55ce2f25e465d350.jpg",
+    "static/media/video-poster-preview1.jpg": "/Netflix-host/static/media/video-poster-preview1.10c497dc8620c16b577c.jpg",
+    "index.html": "/Netflix-host/index.html",
+    "main.e93ac58b.css.map": "/Netflix-host/static/css/main.e93ac58b.css.map",
+    "main.5e69291e.js.map": "/Netflix-host/static/js/main.5e69291e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93ac58b.css",
+    "static/js/main.5e69291e.js"
+  ]
+}
